@@ -11,7 +11,7 @@ The app may be installed through Poetry (recommended for developers). See the in
 1. Ensure you have [Poetry](https://python-poetry.org/docs/) installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/childmindresearch/app-actigraphy.git
+   git clone https://github.com/nathaliaesper/app-actigraphy-test.git
    cd app-actigraphy
    ```
 3. Install dependencies:
@@ -22,8 +22,6 @@ The app may be installed through Poetry (recommended for developers). See the in
    ```bash
    poetry run actigraphy {DATA_DIR}
    ```
-
-
 
 ## Developer notes
 
