@@ -12,7 +12,7 @@ The app may be installed through Poetry (recommended for developers). See the in
 2. Clone the repository:
    ```bash
    git clone https://github.com/nathaliaesper/app-actigraphy-test.git
-   cd app-actigraphy
+   cd app-actigraphy-test
    ```
 3. Install dependencies:
    ```bash
